@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Guutam",
+      "email": "guutam@gmail.com",
+      "password": "Guutam@1",
+      "mobile": "9998999989",
+      "id": "NnVLwu5LwpA"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "Krish@2003",
+      "mobile": "9925873476",
+      "id": "sqNlCX6X74o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
